@@ -1,0 +1,9 @@
+Modo: sequencial
+Tempo Total: 41 ms
+Variação da Memória: 7298112 bytes
+Soma Geral: 7.0435166875091915E9
+
+Arquivo | Soma | Tempo (ms)
+valores1.txt | 215500.0000000062 | 22
+valores2.txt | 4.3478736449750745E8 | 6
+valores3.txt | 6.608513823011684E9 | 9
